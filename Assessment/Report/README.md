@@ -32,9 +32,10 @@ The actuation component translates classification outputs into system behaviour.
 
 Together, these components form a complete perception–inference–action loop suitable for real-time embedded systems.
 
-![Smart Pot Lid Timer Hardware](images/smart_pot_lid_timer.jpeg)
+![Smart Pot Lid Timer Hardware](images/smart_pot_lid_timer.jpg)
 
 *Figure 1. Final hardware prototype containing the Arduino Nano 33 BLE Sense, buzzer, NeoPixel LEDs, and enclosure used for embedded gesture recognition and timer feedback.*
+
 
 | State | Trigger | Action | Feedback |
 |---|---|---|---|
@@ -47,7 +48,7 @@ Together, these components form a complete perception–inference–action loop 
 
 *Table 1. Finite State Machine logic used for timer control and interaction handling.*
 
-![System States](images/states.png)
+![System States](images/states.jpg)
 
 *Figure 2. System behaviour across different interaction states, including countdown, warning, and alarm feedback modes.*
 
