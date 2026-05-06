@@ -62,9 +62,14 @@ The project demonstrated that lightweight embedded gesture recognition is feasib
 
 *Figure 3. Lightweight neural network architecture used for deployment.*
 
+<img src="../../Report/images/Confusion-train.png" width="650">
+
+*Figure 4. Confusion matrix for held-out train dataset.*
+
 <img src="../../Report/images/Confusion-test.png" width="650">
 
-*Figure 4. Confusion matrix for held-out test dataset.*
+*Figure 5. Confusion matrix for held-out test dataset.*
+
 
 ---
 
@@ -72,7 +77,7 @@ The project demonstrated that lightweight embedded gesture recognition is feasib
 
 <img src="../../Report/images/states.png" width="700">
 
-*Figure 5. Different interaction states including countdown, warning, and alarm modes.*
+*Figure 6. Different interaction states including countdown, warning, and alarm modes.*
 
 One of the key lessons from this project was that data quality and preprocessing had a greater impact on performance than increasing model complexity. Early datasets contained inconsistent motion trajectories, which caused overfitting despite high validation accuracy.
 
