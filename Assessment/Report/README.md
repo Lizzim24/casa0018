@@ -1,8 +1,11 @@
 # Smart Pot Lid Timer: Edge-based Gesture Recognition for Contactless Kitchen Timing
 
 **Name:** LIZI WANG
-**GitHub:**  
+
+**GitHub:** https://github.com/Lizzim24/casa0018/tree/main/Assessment
+
 **Edge Impulse Project:** https://studio.edgeimpulse.com/public/959894/live
+
 **Project demonstration video:** [YouTube Link](https://youtu.be/cknqdoWq6qU)
 
 
@@ -142,6 +145,7 @@ Overall, the project demonstrates that embedded machine learning can provide a v
 I, Lizi Wang, confirm that the work presented in this assessment is my own. Where information has been derived from other sources, I confirm that this has been indicated in the work.
 
 Digitally Signed: 
+
 Date: 
 
 Word count: 1784
