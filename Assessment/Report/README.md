@@ -32,13 +32,10 @@ The actuation component translates classification outputs into system behaviour.
 
 Together, these components form a complete perception–inference–action loop suitable for real-time embedded systems.
 
-<div align="center">
-
-<img src="images/smart_pot_lid_timer.jpg" width="500">
+![Smart Pot Lid Timer Hardware](images/smart_pot_lid_timer.jpg)
 
 *Figure 1. Final hardware prototype containing the Arduino Nano 33 BLE Sense, buzzer, NeoPixel LEDs, and enclosure used for embedded gesture recognition and timer feedback.*
 
-</div>
 
 | State | Trigger | Action | Feedback |
 |---|---|---|---|
